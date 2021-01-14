@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#939393</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#0D42FF</color>
+    <color name="loginBackground">#f0f0f0</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorButton">#333333</color>
+    <color name="colorButtonFalse">#33333333</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorBlue">#482EF2</color>
+    <color name="colorBlack">#000000</color>
+    <color name="PostBackground">#f2f2f2</color>
+    <color name="ImgListBackground">#fcfcfc</color>
+    <color name="cardviewStroke">#dfdfdf</color>
+    <color name="colorSearch">#1e767680</color>
+    <color name="colorGray">#cc333333</color>
+    <color name="colorBottom">#5FC9F8</color>
+    <color name="colorMainBackground">#f2f2f2</color>
+    <color name="colorHashTah">#002b6c</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CoCoAndroid" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryVariant">@color/colorBlack</item>
+        <item name="colorOnPrimary">@color/colorBlack</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorBlack</item>
+        <item name="colorSecondaryVariant">@color/colorBlack</item>
+        <item name="colorOnSecondary">@color/colorBlack</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#ffffff</item>
+        <!--Status Bar 글자색깔-->
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
